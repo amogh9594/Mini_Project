@@ -1,9 +1,5 @@
 # Python mini project
-
-* Installtion Cmd : pip install tkinter
-* Import package : import tkinter Or, more often: from tkinter import *
-
-### Project Name 
+ 
 * rps.py : Rock-Paper-Scissors
   Python is a multipurpose language and one can do literally anything with it. Python can also be used for game development. In this game, user gets the first chance to pick the  
   option among Rock, paper and scissor. After that computer select from remaining two choices(randomly), then winner is decided as per the rules.
